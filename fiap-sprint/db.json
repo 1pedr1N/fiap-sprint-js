@@ -1,0 +1,13 @@
+{
+  "posts": [
+    { "status": 0, "title": "Poluicao do Ar"},
+    { "status": 0, "title": "Estresse"},
+    { "status": 1, "title": "Eficiência do trânsito"},
+    { "status": 1, "title": "Segurança nas estradas"},
+    { "status": 1, "title": "Demora nos transportes públicos"},
+    { "status": 1, "title": "Redução do consumo de combustível e emissões de gases de efeito estufa"},
+    { "status": 1, "title": "Redução de congestionamento"},
+    { "status": 1, "title": "Prioridade de carros especiais: Ambulância e Polícia"}
+    
+  ]
+}
